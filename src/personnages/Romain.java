@@ -18,5 +18,8 @@ public class Romain {
 	public String prendreParole() {
 		return "Le romain " + nom + " : ";
 	}
-	
+	public void recevoirCoup(int forceCoup) {
+		force = force - forceCoup;
+		
+	}
 }
