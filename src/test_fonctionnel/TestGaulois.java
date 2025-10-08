@@ -1,6 +1,5 @@
 package test_fonctionnel;
 
-import personnages.Chaudron;
 import personnages.Gaulois;
 import personnages.Romain;
 import personnages.Druide;
